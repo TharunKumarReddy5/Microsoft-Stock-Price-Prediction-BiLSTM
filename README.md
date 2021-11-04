@@ -1,1 +1,1 @@
-# Microsoft-Stock-Price-Prediction-BiLSTM
+# Facebook-Stock-Price-Prediction-LSTM
